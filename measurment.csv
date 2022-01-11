@@ -1,0 +1,29 @@
+﻿measure_id_number,measure_short_name,measure_full_name
+21,FACILITY JKL,J/K/L deficiency
+22,FACILITY CLOSURE,Facility closed during the measurement or reporting year
+20,FACILITY QUINTILE RANK,Quintile rank
+2,CMS FIVE-STAR STAFFING,CMS five-star quality rating for staffing
+14,RESIDENT UTI,Percent of long stay residents with a urinary tract infection
+15,CMS FIVE-STAR HEALTH,CMS five-star quality rating for health inspections
+10,RESIDENT WEIGHT LOSS,Percent of long stay residents who lose too much weight
+3,FACILITY EMPLOYEE FLU VACCINE,Percent of employees vaccinated for the flu
+1,FACILITY CONTRACT STAFF,Percent of contract/agency staff used
+4,RESIDENT PRESSURE ULCER,Percent of long stay high risk residents with pressure ulcers
+9,RESIDENT DEPRESSION,Percent of long stay residents who have depressive symptoms
+17,FACILITY COST REPORT TIMELY,Timely submission of nursing home certified cost reports
+12,RESIDENT PAIN,Percent of long stay residents who self-report moderate to severe pain
+6.2,RESIDENT PNEUMOCOCCAL VACCINE,Percent of long stay residents who received the pneumococcal vaccine
+19,FACILITY SCORE,Overall score
+16,FACILITY EMPLOYEE FLU TIMELY,Timely submission of employee influenza immunization data
+8,RESIDENT FALLS,Percent of long stay residents experiencing one or more falls with major injury
+18,RESIDENT PAH ADJUSTED,"Number of potentially avoidable hospitalizations per 10,000 long stay days"
+11.2,RESIDENT ANTIPSYCHOTIC USE,Percent of long stay residents with dementia who received an antipsychotic medication
+5,RESIDENT INCONTINENCE,Percent of long stay low risk residents who lose control of their bowel or bladder
+13,RESIDENT ADL INCREASE,Percent of long stay residents whose need for help with daily activities has increased
+2.2,RATE OF STAFF HOURS PER DAY,Rate of staff hours per day
+7.2,RESIDENT FLU VACCINE,Percent of long stay residents who received the seasonal influenza vaccine
+11,RESIDENT ANTIPSYCHOTIC USE,Percent of long stay residents who received an antipsychotic medication
+7,RESIDENT FLU VACCINE,"Percent of long stay residents assessed and given, appropriately, the seasonal influenza vaccine"
+16.3,FACILITY EMPLOYEE FLU TIMELY MAY,"Timely submission of employee flu immunization data, May 2014 deadline"
+6,RESIDENT PNEUMOCOCCAL VACCINE,"Percent of long stay residents assessed and given, appropriately, the pneumococcal vaccine"
+16.2,FACILITY EMPLOYEE FLU TIMELY NOVEMBER,"Timely submission of employee flu immunization data, November 2013 deadline"
